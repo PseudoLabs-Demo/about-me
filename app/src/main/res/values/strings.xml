@@ -2,4 +2,26 @@
     <string name="app_name">About Me</string>
     <string name="name">Karthik</string>
     <string name="yellow_star">Yellow Star</string>
+
+    <string name = "bio"> This is Karthik
+        \n\n I am quite the fan of getting apps done
+        \n\n In this vein I am writing a paragraph in order to test the
+        \n scroll view functionality of my app.
+        \n Yes indeed that\'s I\'m doing.
+        \n So how do you do?
+        \n So how do you do?
+        \n So how do you do?
+        \n So how do you do?
+        \n So how do you do?
+        \n So how do you do?
+        \n I just finished chicken run yesterday. Goodness what a film.
+        \n Incredibly inspiring i must say. That Ginger (the name of the chicken)
+        \n is one hell of a bird.
+        \n\n
+
+        \n Well this is the end of the bio.
+
+    </string>
+
+
 </resources>
